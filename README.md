@@ -1,6 +1,4 @@
-Great! Since **Papnify** is a **React app**, here’s an updated `README.md` tailored to that. It also includes clear instructions on how to run it locally:
 
----
 
 # 🎵 Papnify
 
